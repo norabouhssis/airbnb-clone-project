@@ -57,7 +57,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 - 🧭 **Guides developers** in translating design into accurate code  
 - 🌟 **Strengthens user experience** by aligning visuals with functionality
 
-# 👥 Roles and Responsibilities
+# 👥 Project Roles and Responsibilities
 
 | Role               | Responsibilities                                              |
 |--------------------|---------------------------------------------------------------|
